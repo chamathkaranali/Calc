@@ -1,0 +1,27 @@
+body {
+   background-color: #a0a0f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1{
+    background-color: rgb(255, 255, 255);
+    border: #000005;
+}
+
+button{
+    background-color: #0c0002;
+}
